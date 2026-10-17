@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imthiyasyusuf1-dotcom.github.io/halal-protein-pan/sitemap.xml
