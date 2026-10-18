@@ -207,3 +207,10 @@ table.ct td { padding: 11px 10px 11px 0; border-bottom: 1px solid var(--line2); 
   .cols { grid-template-columns: 290px 1fr; gap: 44px; }
   .h2 { font-size: 34px; }
 }
+
+/* growth pass */
+.cta-strip{margin:22px 0 6px;padding:18px 20px;border:1px solid rgba(46,70,54,.18);border-radius:12px;background:#fff8ee}
+.cta-strip p{margin:0 0 12px}
+.cta-strip .cta-pair{margin:0}
+.all-link{margin-top:26px;text-align:center}
+.cat-h{margin-top:40px}
